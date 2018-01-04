@@ -4,7 +4,7 @@
  * A class that diplays the food entries and saves them into the database
  *
  **/
-package com.example.donghyukshin.myfirstapplication;
+package com.example.McMullin.myfirstapplication;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
