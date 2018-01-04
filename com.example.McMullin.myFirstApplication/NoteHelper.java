@@ -1,4 +1,4 @@
-package com.example.donghyukshin.myfirstapplication;
+package com.example.McMullin.myfirstapplication;
 
 /**
  *
