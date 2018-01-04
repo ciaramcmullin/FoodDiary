@@ -1,4 +1,4 @@
-package com.example.donghyukshin.myfirstapplication;
+package com.example.McMullin.myfirstapplication;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
