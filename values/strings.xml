@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyFirstApplication</string>
+
+    <string name="ButtonEnter">Enter</string>
+    <string name="title_activity_display_enter">Food Diary</string>
+</resources>
