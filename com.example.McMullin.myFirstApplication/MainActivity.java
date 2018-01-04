@@ -4,7 +4,7 @@
  * A class used for first launching the app
  *
  */
-package com.example.donghyukshin.myfirstapplication;
+package com.example.McMullin.myfirstapplication;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
