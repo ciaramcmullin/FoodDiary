@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <LinearLayout android:layout_height="fill_parent" android:layout_width="fill_parent" android:orientation="vertical" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditText
+        android:id="@+id/myEditText"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Entries"></EditText>
+
+
+    -<LinearLayout android:layout_height="wrap_content" android:layout_width="fill_parent" android:orientation="horizontal" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <Button
+        android:id="@+id/entry"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/colorAccent"
+        android:text="Add Entry" />
+
+    <Button
+        android:id="@+id/btnDelete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/colorAccent"
+        android:text="Delete entry" />
+
+</LinearLayout>
+
+    <ListView android:layout_height="fill_parent" android:layout_width="fill_parent" android:id="@+id/list"/>
+
+</LinearLayout>
